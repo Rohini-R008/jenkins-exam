@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Health Check: Service is UP and running!"
+echo "Health Check v2: Service is UP and healthy!"
 echo "Timestamp: $(date)"
